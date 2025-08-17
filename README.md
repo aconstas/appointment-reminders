@@ -30,3 +30,6 @@ This script runs as cron job on my Raspberry Pi on Mondays, Wednesdays, and Thur
 ```bash
 0 17 * * 1,3,4 python3 /home/const/Documents/ClientReminders/script.py >> /home/const/cron_log.txt 2>&1
 ```
+
+## Example Output:
+![alt text](ExampleOutput.png)
